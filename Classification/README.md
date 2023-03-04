@@ -16,4 +16,4 @@ Once any of the algorithms are developed, solve the image classification as foll
 
 An example of the expected results are:
 
-![Example of result](classification_result.png)
+![Example of result](images/classification_result.png)
